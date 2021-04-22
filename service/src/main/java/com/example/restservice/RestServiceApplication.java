@@ -19,6 +19,6 @@ class MainController{
 	@GetMapping("/hello")
 	public String hello(){
 
-		return "hellof      W      ";
+		return "Test";
 	}
 }
